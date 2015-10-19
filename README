@@ -1,0 +1,16 @@
+--Assignment #1: Dictionary
+  Made by Darren Tam (ID 5037702)
+
+-- WARNING: -If the dictionary is given a word that is 12 characters or any word
+	    when the dictionary holds 5 words, then the given word is thrown away.
+	    -Numerical numbers and symbols are ignored and are treated as breaks inbetween a word.
+
+-- MAKING THE FILE: 
+ * Open the Terminal window
+ * Navigate to the "Assignment1" folder
+ * type "make"
+
+-- RUNNING THE FILE:
+ * type "./Dictionary" and input words
+    *Alternately type "./Dictionary < test1" or "./Dictionary < test2"
+     for premade text files.
